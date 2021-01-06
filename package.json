@@ -9,7 +9,7 @@
     "build:test": "vue-cli-service build --mode test"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "element-ui": "^2.11.0",
     "less-loader": "^6.0.0",
